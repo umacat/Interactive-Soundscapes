@@ -10,3 +10,8 @@ The result will be an electroacoustic synthesis which can be recorded.
 #Soundscapes
 #Electroacoustic Music
 #Max/Msp
+
+
+AADA 2021
+
+Caterina Velentza
